@@ -1,0 +1,80 @@
+[W 250123 04:22:07 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:22:18 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:22:18 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:22:18 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:23:05 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:23:15 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:23:15 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:23:15 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:28:00 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:28:10 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:28:10 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:28:10 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:28:59 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:29:09 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:29:09 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:29:09 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:30:49 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:30:59 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:30:59 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:30:59 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:35:20 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:35:30 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:35:30 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:35:30 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:36:11 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:36:22 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:36:22 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:36:22 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:36:43 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:36:53 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:36:53 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:36:53 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:38:07 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:38:17 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:38:17 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:38:17 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:39:32 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250123 04:39:43 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() takes 2 positional arguments but 3 were given
+[E 250123 04:39:43 smartWebSocketV2:333] Error occurred during resubscribe/reconnect: WebSocketManager.on_error() takes 2 positional arguments but 3 were given
+[E 250123 04:39:43 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() takes 2 positional arguments but 3 were given
+[W 250123 04:41:23 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250123 04:41:33 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() takes 1 positional argument but 3 were given
+[E 250123 04:41:33 smartWebSocketV2:333] Error occurred during resubscribe/reconnect: WebSocketManager.on_error() takes 1 positional argument but 3 were given
+[E 250123 04:41:33 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() takes 1 positional argument but 3 were given
+[W 250123 04:42:11 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:42:21 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:42:21 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:42:21 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:42:33 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250123 04:42:43 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() takes 2 positional arguments but 3 were given
+[E 250123 04:42:43 smartWebSocketV2:333] Error occurred during resubscribe/reconnect: WebSocketManager.on_error() takes 2 positional arguments but 3 were given
+[E 250123 04:42:43 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() takes 2 positional arguments but 3 were given
+[W 250123 04:43:54 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:44:04 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:44:04 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:44:04 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:47:44 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[E 250123 04:47:54 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() missing 1 required positional argument: 'test'
+[E 250123 04:47:54 smartWebSocketV2:333] Error occurred during resubscribe/reconnect: WebSocketManager.on_error() missing 1 required positional argument: 'test'
+[E 250123 04:47:54 smartWebSocketV2:304] Error occurred during WebSocket connection: WebSocketManager.on_error() missing 1 required positional argument: 'test'
+[W 250123 04:48:27 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:48:37 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:48:37 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:48:37 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:50:42 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:50:52 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:50:52 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:50:52 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:50:55 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 04:51:05 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:51:05 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 04:51:05 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 10:18:58 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 10:19:08 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 10:19:08 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 10:19:08 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 10:19:57 smartWebSocketV2:319] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250123 10:20:07 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 10:20:07 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[W 250123 10:20:07 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
